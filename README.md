@@ -1,4 +1,4 @@
-Team project made by team 13. 
+Team project
 
 Used tech: 
 - HTML/CSS
